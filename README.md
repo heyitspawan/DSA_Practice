@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
