@@ -4,10 +4,22 @@ public:
         int l = 0;
         int s = nums.size();
         int r = s - 1;
-        int m = nums[0];
-        for (int i = 1; i < s; i++) {
-            m = min(m, nums[i]);
+        int m;
+        while (l <= r) {
+            m = (l + r )/ 2;
+            if (nums[l] > nums[r]) {
+                if (nums[l] <= nums[m]) {
+                    l = m + 1;
+                } else {
+                    if (nums[m] < nums[r]) {
+                        r = m;
+                    }
+                }
+            }
+            if (nums[l] <= nums[r]) {
+                return nums[l];
+            }
         }
-        return m;
+        return nums[m];
     }
 };
