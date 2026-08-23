@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
@@ -108,6 +110,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
