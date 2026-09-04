@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -71,6 +72,7 @@
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
