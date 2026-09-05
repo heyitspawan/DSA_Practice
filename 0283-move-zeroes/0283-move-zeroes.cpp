@@ -1,19 +1,34 @@
+// class Solution {
+// public:
+//     void moveZeroes(vector<int>& nums) {
+//         int n=nums.size();
+//         int c=0;
+//         for(int i=0;i<n-c;i++){
+//             if(nums[i]==0) 
+//             {
+//                 nums.erase(nums.begin()+i);
+//                 c++;
+//                 i--;
+//             }
+//         }
+//         while(c){
+//             nums.push_back(0);
+//             c--;
+//         }
+//     }
+// };
 class Solution {
 public:
-    void moveZeroes(vector<int>& nums) {
-        int n=nums.size();
-        int c=0;
-        for(int i=0;i<n-c;i++){
-            if(nums[i]==0) 
-            {
-                nums.erase(nums.begin()+i);
-                c++;
-                i--;
+    void moveZeroes(vector<int>& arr) {
+        int n=arr.size()-1;
+        int j=0;
+        for(int i=0;i<=n;i++){
+            if(arr[i]!=0){
+                swap(arr[i],arr[j]);
+                j++;
             }
+
         }
-        while(c){
-            nums.push_back(0);
-            c--;
-        }
+        
     }
 };
