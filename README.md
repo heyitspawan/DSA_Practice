@@ -43,6 +43,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/heyitspawan/DSA_Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
@@ -89,6 +90,7 @@
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -208,4 +211,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
