@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
