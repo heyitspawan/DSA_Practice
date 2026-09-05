@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -17,6 +18,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -38,6 +40,7 @@
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
