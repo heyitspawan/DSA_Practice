@@ -130,6 +130,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/heyitspawan/DSA_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/heyitspawan/DSA_Practice/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
