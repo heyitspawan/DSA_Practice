@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Breadth-First Search
 |  |
@@ -244,4 +245,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heyitspawan/DSA_Practice/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
