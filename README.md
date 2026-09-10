@@ -52,6 +52,7 @@
 | [0056-merge-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/heyitspawan/DSA_Practice/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@
 | [0031-next-permutation](https://github.com/heyitspawan/DSA_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
@@ -121,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/heyitspawan/DSA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
