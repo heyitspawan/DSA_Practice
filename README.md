@@ -68,6 +68,7 @@
 | [0238-product-of-array-except-self](https://github.com/heyitspawan/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/heyitspawan/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/heyitspawan/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/heyitspawan/DSA_Practice/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
@@ -160,6 +161,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/heyitspawan/DSA_Practice/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/heyitspawan/DSA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -278,4 +281,24 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
