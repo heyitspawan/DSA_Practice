@@ -69,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/heyitspawan/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/heyitspawan/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/heyitspawan/DSA_Practice/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
@@ -162,6 +163,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/heyitspawan/DSA_Practice/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
