@@ -73,6 +73,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/heyitspawan/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/heyitspawan/DSA_Practice/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/heyitspawan/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/heyitspawan/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/heyitspawan/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -112,6 +113,7 @@
 | [0048-rotate-image](https://github.com/heyitspawan/DSA_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0835-image-overlap) |
 ## Two Pointers
 |  |
 | ------- |
