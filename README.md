@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/heyitspawan/DSA_Practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/heyitspawan/DSA_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
@@ -324,4 +326,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
