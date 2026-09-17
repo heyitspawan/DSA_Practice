@@ -60,6 +60,7 @@
 | [0075-sort-colors](https://github.com/heyitspawan/DSA_Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/heyitspawan/DSA_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/heyitspawan/DSA_Practice/tree/master/0136-single-number) |
@@ -206,6 +207,7 @@
 | [0063-unique-paths-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/heyitspawan/DSA_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/heyitspawan/DSA_Practice/tree/master/0198-house-robber) |
