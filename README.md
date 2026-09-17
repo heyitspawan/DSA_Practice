@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/heyitspawan/DSA_Practice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/heyitspawan/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/heyitspawan/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/heyitspawan/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
@@ -237,6 +239,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/heyitspawan/DSA_Practice/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
