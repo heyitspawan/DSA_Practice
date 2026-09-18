@@ -14,6 +14,7 @@
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/heyitspawan/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -29,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -158,6 +160,7 @@
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
