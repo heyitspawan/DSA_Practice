@@ -177,6 +177,7 @@
 | [0048-rotate-image](https://github.com/heyitspawan/DSA_Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/heyitspawan/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/heyitspawan/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/heyitspawan/DSA_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -366,4 +367,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/heyitspawan/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
