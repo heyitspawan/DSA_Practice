@@ -78,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/heyitspawan/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/heyitspawan/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,6 +218,7 @@
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/heyitspawan/DSA_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -356,4 +358,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
