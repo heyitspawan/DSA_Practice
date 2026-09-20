@@ -15,13 +15,15 @@ public:
         queue<pair<int, int>> q;
         int ic = image[sr][sc];
         q.push({sr, sc});
-        a[sr][sc] = color;
+      
         vis[sr][sc]=1;
         while (!q.empty()) {
             int dr[] = {0, -1, 0, +1};
             int dc[] = {-1, 0, +1, 0};
+
             int row = q.front().first;
             int col = q.front().second;
+              a[row][col] = color;
                 q.pop();
             for (int i = 0; i < 4; i++) {
 
@@ -29,7 +31,7 @@ public:
                 int ncol = col +dc[i];
 
                 if (nrow>=0 && nrow<n &&ncol>=0 &&ncol<m && image[nrow][ncol] == ic&&vis[nrow][ncol]==-1) {
-                    a[nrow][ncol] = color;
+                    //a[nrow][ncol] = color;
                     vis[nrow][ncol]=1;
                     q.push({nrow, ncol});
                 }
