@@ -89,6 +89,7 @@
 | [0835-image-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/heyitspawan/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/heyitspawan/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/heyitspawan/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -110,6 +111,7 @@
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Breadth-First Search
@@ -118,6 +120,7 @@
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union-Find
 |  |
@@ -125,6 +128,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -138,6 +142,7 @@
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
