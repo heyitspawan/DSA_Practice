@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union-Find
@@ -122,6 +124,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -174,6 +177,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
