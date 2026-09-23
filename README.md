@@ -88,6 +88,7 @@
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/heyitspawan/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/heyitspawan/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/heyitspawan/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/heyitspawan/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -121,6 +122,7 @@
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/heyitspawan/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union-Find
@@ -143,6 +145,7 @@
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/heyitspawan/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
