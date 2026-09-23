@@ -114,6 +114,7 @@
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heyitspawan/DSA_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Breadth-First Search
@@ -124,6 +125,7 @@
 | [0733-flood-fill](https://github.com/heyitspawan/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/heyitspawan/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heyitspawan/DSA_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union-Find
 |  |
@@ -132,6 +134,7 @@
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/heyitspawan/DSA_Practice/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heyitspawan/DSA_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/heyitspawan/DSA_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
