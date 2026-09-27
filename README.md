@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1096-brace-expansion-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -334,6 +335,7 @@
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
 | ------- |
