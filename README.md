@@ -34,6 +34,7 @@
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1096-brace-expansion-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/heyitspawan/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -276,6 +277,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/heyitspawan/DSA_Practice/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -453,4 +455,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
