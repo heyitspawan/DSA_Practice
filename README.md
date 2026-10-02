@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/heyitspawan/DSA_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/heyitspawan/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -30,6 +31,7 @@
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1096-brace-expansion-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1096-brace-expansion-ii) |
@@ -79,6 +81,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/heyitspawan/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/heyitspawan/DSA_Practice/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/heyitspawan/DSA_Practice/tree/master/0162-find-peak-element) |
@@ -269,6 +272,7 @@
 | [0120-triangle](https://github.com/heyitspawan/DSA_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/heyitspawan/DSA_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0213-house-robber-ii) |
@@ -322,6 +326,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -430,6 +435,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -459,4 +465,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/1143-longest-common-subsequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
