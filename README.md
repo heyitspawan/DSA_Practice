@@ -30,6 +30,7 @@
 | [0014-longest-common-prefix](https://github.com/heyitspawan/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/heyitspawan/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/heyitspawan/DSA_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -270,6 +271,7 @@
 | [0063-unique-paths-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/heyitspawan/DSA_Practice/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/heyitspawan/DSA_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyitspawan/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
