@@ -18,6 +18,8 @@ public:
         return dp[i]=false;
     }
     bool canJump(vector<int>& nums) { 
-        vector<int>dp(nums.size()+1,-1);
-        return sol(nums, 0,dp); }
+        vector<int>dp(nums.size(),-1);
+        return sol(nums, 0,dp); 
+        
+        }
 };
