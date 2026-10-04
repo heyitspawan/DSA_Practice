@@ -22,6 +22,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/heyitspawan/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Depth-First Search
 |  |
 | ------- |
