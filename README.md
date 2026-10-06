@@ -124,6 +124,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyitspawan/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/heyitspawan/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -222,6 +223,7 @@
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -270,6 +272,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyitspawan/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/heyitspawan/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -302,6 +305,7 @@
 | [0678-valid-parenthesis-string](https://github.com/heyitspawan/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/heyitspawan/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
