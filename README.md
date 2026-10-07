@@ -37,6 +37,7 @@
 | [0125-valid-palindrome](https://github.com/heyitspawan/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/heyitspawan/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/heyitspawan/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0856-score-of-parentheses) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/heyitspawan/DSA_Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/heyitspawan/DSA_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/heyitspawan/DSA_Practice/tree/master/0547-number-of-provinces) |
@@ -490,6 +492,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 ## Complete Knapsack
 |  |
