@@ -146,6 +146,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Depth-First Search
 |  |
@@ -323,6 +324,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Greedy
 |  |
 | ------- |
