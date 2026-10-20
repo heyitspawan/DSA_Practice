@@ -146,6 +146,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/heyitspawan/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/heyitspawan/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/heyitspawan/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -240,6 +241,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/heyitspawan/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Graph Theory
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/heyitspawan/DSA_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/heyitspawan/DSA_Practice/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/heyitspawan/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/heyitspawan/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
