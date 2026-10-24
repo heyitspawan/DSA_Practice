@@ -54,6 +54,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/heyitspawan/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -260,6 +261,7 @@
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/heyitspawan/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/heyitspawan/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3525-find-x-value-of-array-ii) |
