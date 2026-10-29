@@ -568,4 +568,5 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/heyitspawan/DSA_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1407-top-travellers](https://github.com/heyitspawan/DSA_Practice/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
