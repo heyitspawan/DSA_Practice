@@ -564,4 +564,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/heyitspawan/DSA_Practice/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/heyitspawan/DSA_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
