@@ -117,6 +117,7 @@
 | [0322-coin-change](https://github.com/heyitspawan/DSA_Practice/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/heyitspawan/DSA_Practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/heyitspawan/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/heyitspawan/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -282,6 +283,7 @@
 | [0048-rotate-image](https://github.com/heyitspawan/DSA_Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/heyitspawan/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/heyitspawan/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/heyitspawan/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/heyitspawan/DSA_Practice/tree/master/2409-count-days-spent-together) |
