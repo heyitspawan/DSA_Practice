@@ -24,8 +24,9 @@ public:
         long long ans = n - suffix + 1;
 
         // 4. Case 2: Two-pointer check to join prefix arr[0...i] with suffix arr[j...n-1]
-        int j = suffix;
+       
         for (int i = 0; i <= prefix; i++) {
+             int j = suffix;
             while (j < n && arr[i] >= arr[j]) {
                 j++;
             }
