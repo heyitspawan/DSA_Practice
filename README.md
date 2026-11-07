@@ -144,6 +144,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/heyitspawan/DSA_Practice/tree/master/1882-process-tasks-using-servers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -416,6 +417,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/heyitspawan/DSA_Practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
