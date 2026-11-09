@@ -142,6 +142,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyitspawan/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/heyitspawan/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -422,6 +423,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/heyitspawan/DSA_Practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -446,6 +448,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -564,6 +567,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Treap
 |  |
 | ------- |
