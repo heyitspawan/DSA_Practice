@@ -71,6 +71,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/heyitspawan/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Array
@@ -157,6 +158,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -481,10 +483,12 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/heyitspawan/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/heyitspawan/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heyitspawan/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -560,6 +564,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/heyitspawan/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
@@ -625,4 +630,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
