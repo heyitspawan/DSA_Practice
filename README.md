@@ -322,6 +322,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/heyitspawan/DSA_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/heyitspawan/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/heyitspawan/DSA_Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/heyitspawan/DSA_Practice/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/heyitspawan/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -411,6 +412,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/heyitspawan/DSA_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/heyitspawan/DSA_Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
 |  |
 | ------- |
