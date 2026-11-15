@@ -143,6 +143,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/heyitspawan/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyitspawan/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/heyitspawan/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -310,6 +311,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/heyitspawan/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/heyitspawan/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/heyitspawan/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -385,6 +387,7 @@
 | [0678-valid-parenthesis-string](https://github.com/heyitspawan/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/heyitspawan/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/heyitspawan/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -500,6 +503,7 @@
 | [0238-product-of-array-except-self](https://github.com/heyitspawan/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/heyitspawan/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/heyitspawan/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
