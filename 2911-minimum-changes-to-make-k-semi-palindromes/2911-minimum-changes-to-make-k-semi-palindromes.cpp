@@ -82,7 +82,7 @@ public:
                 v[i][j] = check(s.substr(i, j - i + 1));
             }
         }
-        vector<vector<long long>> dp(n, vector<long long>(n, -1));
+        vector<vector<long long>> dp(n+1, vector<long long>(k+1, -1));
         return (int)solve(s, 0, k, dp);
     }
 };
