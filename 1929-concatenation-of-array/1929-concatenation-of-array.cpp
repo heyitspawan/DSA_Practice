@@ -6,7 +6,7 @@ public:
         int m=res.size()-1;
         for(int i=0;i<n;i++){
             res[i]=nums[i];
-            res[m-i]=nums[n-i-1];
+            res[n+i]=nums[i];
         }
         return res;
     }
