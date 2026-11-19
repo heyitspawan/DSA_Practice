@@ -1,49 +1,13 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-          int first = -1;
-        int last = -1;
-
-        int low = 0;
-        int high = nums.size() - 1;
-
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                first = mid;
-                high = mid - 1;
-            }
-            else if (nums[mid] < target) {
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
-            }
+        if (binary_search(nums.begin(), nums.end(), target)) {
+            auto [l, u] = equal_range(nums.begin(), nums.end(), target);
+            int left_ind = l - nums.begin();
+            int right_ind = u - nums.begin()-1;
+            return {left_ind,right_ind};
+        }else{
+            return {-1,-1};
         }
-
-        low = 0;
-        high = nums.size() - 1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                last = mid;
-                low = mid + 1;
-            }
-
-            else if (nums[mid] < target) {
-                low = mid + 1;
-            }
-
-            else {
-                high = mid - 1;
-            }
-        }
-
-        return {first, last};
     }
-
 };
