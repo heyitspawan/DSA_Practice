@@ -19,6 +19,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/heyitspawan/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -155,6 +156,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/heyitspawan/DSA_Practice/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1929-concatenation-of-array) |
+| [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -198,6 +200,7 @@
 | [1254-number-of-closed-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/heyitspawan/DSA_Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/heyitspawan/DSA_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/heyitspawan/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -217,6 +220,7 @@
 | [1254-number-of-closed-islands](https://github.com/heyitspawan/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/heyitspawan/DSA_Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/heyitspawan/DSA_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/heyitspawan/DSA_Practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/heyitspawan/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -555,6 +559,7 @@
 ## Tree
 |  |
 | ------- |
+| [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/heyitspawan/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -656,4 +661,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/heyitspawan/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 <!---LeetCode Topics End-->
