@@ -152,6 +152,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/heyitspawan/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1642-furthest-building-you-can-reach](https://github.com/heyitspawan/DSA_Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -422,6 +423,7 @@
 | [0678-valid-parenthesis-string](https://github.com/heyitspawan/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/heyitspawan/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1642-furthest-building-you-can-reach](https://github.com/heyitspawan/DSA_Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [2241-design-an-atm-machine](https://github.com/heyitspawan/DSA_Practice/tree/master/2241-design-an-atm-machine) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -452,6 +454,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1642-furthest-building-you-can-reach](https://github.com/heyitspawan/DSA_Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1882-process-tasks-using-servers](https://github.com/heyitspawan/DSA_Practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
