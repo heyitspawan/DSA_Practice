@@ -64,6 +64,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/heyitspawan/DSA_Practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -407,6 +408,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/heyitspawan/DSA_Practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3665-twisted-mirror-path-count](https://github.com/heyitspawan/DSA_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/heyitspawan/DSA_Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -426,6 +428,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/heyitspawan/DSA_Practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/heyitspawan/DSA_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/heyitspawan/DSA_Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -521,6 +524,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/heyitspawan/DSA_Practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
