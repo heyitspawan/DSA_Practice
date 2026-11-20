@@ -18,6 +18,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/heyitspawan/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -154,6 +155,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/heyitspawan/DSA_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/heyitspawan/DSA_Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/heyitspawan/DSA_Practice/tree/master/1882-process-tasks-using-servers) |
@@ -274,6 +276,7 @@
 | [0283-move-zeroes](https://github.com/heyitspawan/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/heyitspawan/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/heyitspawan/DSA_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -299,6 +302,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/heyitspawan/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/heyitspawan/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
