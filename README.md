@@ -158,6 +158,7 @@
 | [1929-concatenation-of-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2241-design-an-atm-machine](https://github.com/heyitspawan/DSA_Practice/tree/master/2241-design-an-atm-machine) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/heyitspawan/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -420,6 +421,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/heyitspawan/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
+| [2241-design-an-atm-machine](https://github.com/heyitspawan/DSA_Practice/tree/master/2241-design-an-atm-machine) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/heyitspawan/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -665,4 +667,5 @@
 |  |
 | ------- |
 | [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
+| [2241-design-an-atm-machine](https://github.com/heyitspawan/DSA_Practice/tree/master/2241-design-an-atm-machine) |
 <!---LeetCode Topics End-->
