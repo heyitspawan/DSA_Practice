@@ -147,6 +147,7 @@
 | [1267-count-servers-that-communicate](https://github.com/heyitspawan/DSA_Practice/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/heyitspawan/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/heyitspawan/DSA_Practice/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/heyitspawan/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/heyitspawan/DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -330,6 +331,7 @@
 | [0070-climbing-stairs](https://github.com/heyitspawan/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/heyitspawan/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/heyitspawan/DSA_Practice/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/heyitspawan/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
@@ -532,6 +534,7 @@
 | [0238-product-of-array-except-self](https://github.com/heyitspawan/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/heyitspawan/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/heyitspawan/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -681,6 +684,11 @@
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1993-operations-on-tree](https://github.com/heyitspawan/DSA_Practice/tree/master/1993-operations-on-tree) |
 | [2241-design-an-atm-machine](https://github.com/heyitspawan/DSA_Practice/tree/master/2241-design-an-atm-machine) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
