@@ -61,6 +61,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/heyitspawan/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/heyitspawan/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/heyitspawan/DSA_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/heyitspawan/DSA_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/heyitspawan/DSA_Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -537,6 +538,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/heyitspawan/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/heyitspawan/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/heyitspawan/DSA_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3364-minimum-positive-sum-subarray](https://github.com/heyitspawan/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/heyitspawan/DSA_Practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
