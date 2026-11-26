@@ -337,6 +337,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/heyitspawan/DSA_Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/heyitspawan/DSA_Practice/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/heyitspawan/DSA_Practice/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/heyitspawan/DSA_Practice/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/heyitspawan/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -495,6 +496,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyitspawan/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/heyitspawan/DSA_Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/heyitspawan/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
