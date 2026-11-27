@@ -197,6 +197,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/heyitspawan/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/heyitspawan/DSA_Practice/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Depth-First Search
@@ -425,6 +426,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/heyitspawan/DSA_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/heyitspawan/DSA_Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/heyitspawan/DSA_Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/heyitspawan/DSA_Practice/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Greedy
 |  |
@@ -446,6 +448,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/heyitspawan/DSA_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/heyitspawan/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/heyitspawan/DSA_Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/heyitspawan/DSA_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
